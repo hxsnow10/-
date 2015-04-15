@@ -1,0 +1,8 @@
+structure and computing principles define a system.
++ many system build layers;
++ we're concerned mathematical theory of Structure and algorithm, Concrete System Design.
+
+这个现代很火的例子，神经网络，尤其是深度学习。有很多相关的其他概念。我们现在只关注于ANN的表达能力。
+实际上，这个领域的理论并不完善。
+
+我想对此做个总结与思考，关于神经网络的数理分析，从基本到具体设计，具体的系统运行。

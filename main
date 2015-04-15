@@ -1,48 +1,68 @@
 World,Us
 ==========
 
-World, Us. Just think about it.
+World, Us. 
+It's better firstly think about it yourself and give your description.
+————————————————————————————————————————————————————————————
 
-Use less words to achieve more complete descriptions.
-+ How to describe these objects, i mean how?
-+ Descriptions, like what are they, how they work?
+metadata
+-------------
++ Representation rules?
+Here we use natural language, which is a historily built symbol system with semantics to Reality.
+We also can switch to alterntives, some new designed machine representationsof world.
+
++ concrete representation/description?
+following.
 
 General
 -----------------
 The world is a big system.We are parts of them.
-we use langauge and science to describe the world.
-And we make engineering to create some new.
+As victory creature, humans, we use language to representate, science to explore and engineering to create.
+
+But don't limited to humans's pattern.
+
 
 how to describe?
 --------------
-Our descriptions is fundemtal on our specific observtions and our specific structions,whether for specics or persons.
-we get observations by what world like and our perception struct.
-we create some symbol/languages to describe them and build more abstractionslike 'culture', 'happy', 'management'.
-we have neural nets to hold and understand these representations.these languges and knowledge has internal structs.and we use science to keep these descriptions more correct.
++ Our descriptions is based on our specific observtions and our specific representations , whether for specics or persons.  
+
++ [world]   -----> sensor [input] --------->  [representation nets]
+-------->  [action]
+understand in fact sensor,actor has internal representation and could be trained.
+
++ we create some symbol/languages to describe them and build more abstractionsand combination like 'culture', 'happy', 'management' ,number, math-theory,etc.
+
++ we have neural nets to hold and understand these representations.But also these languges and knowledge has internal structs not limited to neural nets.modern times we'll recreate new representaions of world.
 
 Descriptions
 ---------------
-we've creted so many science (also no-science).they all describe sth, may be a concrete physcial object , a class of objects, some created tools, even science , creation , languages self and other abstractions(of course you can regard all as objects.everything is a object, is it?).. No end.
+So far, humans've creted so many science (also no-science) topics.They all describe sth, may be a concrete physcial object , a class of objects, some created tools, even science 、creation 、languages self and other abstractions(you can regard all as objects.everything is a object, is it?) ， whatever.
 
-These main objects deserve to understand.
+Modern computing technology give ensential and much more possibilties to desriptions beyond traditional methods. 
+
+Now many technology's doing some data-reprenstation work of real-world objects including concrete big data, natural language, traditional abstractions.
+
+Here is a problem, for us, when our understanding of world changed so much, in fact, many traditional abstractions should be updated.When the world should iteration gradually, i want to imagine there and a path there first!
+
 
 ####Examples
-1. how to restruct our language?how to make sure that description is good?
-2. what is science?or say how to design definition of science which suits our understanding, how to design process of it and more?
-3. what is human?
-4. what is truth?
-5. what is Significance, like Significance of life?
-6. what is engineering?
 
 Main.essays =SOME=
 --------------
-I have write some essays to combine some ideas, historically:)
-you can review it for some understandings.
+historily and futurly, i will share short essays.
+
+I'm sure all my essays have great meanings not only in contens'
+sematic, but its value to be carried out and big influence.
+
+In fact, i'll implement myslef.You may find it in my github.
 
 Main.glossary =NONE=
 ---------------
-It is a complete but limited with size representation try.
-refer to glossary.md
+Here should be a glossary.md for reference.
+
+Other sub-parts
+-------------
+to be added.
 
 External
 --------------
